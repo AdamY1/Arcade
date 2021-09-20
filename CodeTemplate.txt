@@ -2,26 +2,26 @@ CODE TEMPLATE:
 //This is a single line comment (notes that won't be read as instructions to the computer).
 //Different syntax is used for comments depending on the language.
 
-//CHANGE ME: Add the title of your game
-//CHANGE ME: Add your name
+//CHANGE ME: Pokemon Blue
+//Adam Yassine
 
 
-if (CHANGE ME: condition # 1) {
-    //Add event below
+if (encountered wild pokemon) {
+    Send out your pokemon
 } else {
-    //Add event below
+    walk in tall grass
 }
 
-if (CHANGE ME: condition # 2) {
-    //Add event below
+if (wild pokemon is low health) {
+    Throw pokeball at wild pokemon
 } else {
-    //Add event below
+    Use an attack on the wild pokemon
 }
 
-if (CHANGE ME: condition # 3) {
-    //Add event below
+if (Your pokemon is low health) {
+    Switch to another pokemon
 } else {
-    //Add event below
+    Continue battling
 }
 
 
